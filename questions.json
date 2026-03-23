@@ -1,0 +1,26 @@
+[
+  { "question": "セルコピーは？", "answer": "Ctrl+C", "type": "normal" },
+  { "question": "貼り付けは？", "answer": "Ctrl+V", "type": "normal" },
+  { "question": "保存は？", "answer": "Ctrl+S", "type": "normal" },
+  { "question": "切り取りは？", "answer": "Ctrl+X", "type": "normal" },
+  { "question": "元に戻すは？", "answer": "Ctrl+Z", "type": "normal" },
+  { "question": "すべて選択は？", "answer": "Ctrl+A", "type": "normal" },
+  { "question": "検索は？", "answer": "Ctrl+F", "type": "normal" },
+  { "question": "印刷は？", "answer": "Ctrl+P", "type": "normal" },
+  { "question": "新しいファイルを作るには？", "answer": "Ctrl+N", "type": "normal" },
+  { "question": "ファイルを開くには？", "answer": "Ctrl+O", "type": "normal" },
+  { "question": "やり直しは？", "answer": "Ctrl+Y", "type": "normal" },
+  { "question": "ウィンドウを閉じるには？", "answer": "Ctrl+W", "type": "normal" },
+  { "question": "文字を太字にするには？", "answer": "Ctrl+B", "type": "normal" },
+  { "question": "文字を斜体にするには？", "answer": "Ctrl+I", "type": "normal" },
+  { "question": "文字に下線を引くには？", "answer": "Ctrl+U", "type": "normal" },
+
+  { "question": "文字を置換するには？", "answer": "Ctrl+H", "type": "boss" },
+  { "question": "上のセルをコピーするには？", "answer": "Ctrl+D", "type": "boss" },
+  { "question": "左のセルをコピーするには？", "answer": "Ctrl+R", "type": "boss" },
+  { "question": "検索を開くには？", "answer": "Ctrl+F", "type": "boss" },
+  { "question": "表をテーブルに変換するには？", "answer": "Ctrl+T", "type": "boss" },
+  { "question": "新しいファイルを開くには？", "answer": "Ctrl+N", "type": "boss" },
+  { "question": "フラッシュフィルを利用するには？", "answer": "Ctrl+E", "type": "boss" },
+  { "question": "ウィンドウを閉じるには？", "answer": "Ctrl+W", "type": "boss" }
+]
